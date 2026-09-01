@@ -1,0 +1,2 @@
+# Advanced-Pothole-Detection-and-Road-Severity-Assessment-Using-Deep-Learning
+Developed a computer vision system that automatically detects potholes in real-world road images using deep learning and transfer learning. The project combines CNN-based image classification, data augmentation, fine-tuning, confidence estimation, and visual severity analysis to identify damaged road surfaces and estimate their potential risk level
